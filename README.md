@@ -1,4 +1,7 @@
 ![netflix-clone-1-6xsr onrender com_ (5)](https://github.com/user-attachments/assets/247bc064-03ab-4e38-8342-4b0d2bb98cbf)
+
+### Check the site: https://netflix-clone-1-6xsr.onrender.com 
+
 ## Features:
 
 ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
